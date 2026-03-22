@@ -36,8 +36,8 @@ The report will print as follows:
 
 In the Character Count section, each line looks like:
 
-a: 12345
-b: 12233
-c: 12000
+- a: 12345
+- b: 12233
+- c: 12000
 
 
